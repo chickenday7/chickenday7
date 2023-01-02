@@ -7,4 +7,4 @@
 
 Telegram: @chickenday		
 
-e-mail: pasha.kavinsky@yandex.ru
+E-mail: pasha.kavinsky@yandex.ru
