@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @chickenday7
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chickenday7/chickenday7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Permyakov Pavel
+- 👀 I’m working Frontend Developer
+- 🌱 I’m currently learning JS
+- 📫 How to reach me: 
+Telegram: @chickenday
+e-mail: pasha.kavinsky@yandex.ru
